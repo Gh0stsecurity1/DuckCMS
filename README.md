@@ -45,7 +45,7 @@ The answer is no, DuckCMS was specifically designed for Kepler.
 
 ## Authors
 
-- [@303] - Developing CMS
+- [@Eventually] - Developing CMS
 - [@Quackster] - Kepler Emulator
 
 
